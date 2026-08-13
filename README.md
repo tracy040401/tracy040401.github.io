@@ -1,7 +1,9 @@
 <table>
 <tr>
 <td width="120">
-  <img src="pp_new.jpg" alt="Photo de Tracy André" width="110">
+
+<img src="pp_new.jpg" alt="Photo de Tracy André" width="110">
+
 </td>
 <td>
 
