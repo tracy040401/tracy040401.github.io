@@ -1,5 +1,9 @@
 # Tracy André
 
+<p align="center">
+  <img src="pp_new.jpg" alt="Photo de Tracy André" width="150" style="border-radius:50%">
+</p>
+
 **Ingénieure Data & IA** — Paris, France
 
 📧 [tracy.andre04@gmail.com](mailto:tracy.andre04@gmail.com) · 📱 +33 6 81 90 05 48 · 🔗 [LinkedIn](https://www.linkedin.com/in/tracy-andr%C3%A9-%F0%9F%A6%9C-66a02a1a6/)
