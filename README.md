@@ -1,8 +1,11 @@
-# Tracy André
+<table>
+<tr>
+<td width="120">
+  <img src="pp_new.jpg" alt="Photo de Tracy André" width="110">
+</td>
+<td>
 
-<p align="center">
-  <img src="pp_new.jpg" alt="Photo de Tracy André" width="150" style="border-radius:50%">
-</p>
+# Tracy André
 
 **Ingénieure Data & IA** — Paris, France
 
