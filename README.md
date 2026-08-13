@@ -1,11 +1,11 @@
-<table>
+<table markdown="1">
 <tr>
-<td width="120">
+<td width="120" markdown="1">
 
 <img src="pp_new.jpg" alt="Photo de Tracy André" width="110">
 
 </td>
-<td>
+<td markdown="1">
 
 # Tracy André
 
