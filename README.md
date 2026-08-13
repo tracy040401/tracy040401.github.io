@@ -23,6 +23,8 @@ Ingénieure data et IA, je nettoie les données et automatise les processus inte
 
 Je cherche à mettre mes compétences en informatique et en statistiques au service de projets qui contribuent à réparer le monde et la société.
 
+En parallèle de mon métier, je suis également volleyeuse semi-professionnelle. 
+
 ---
 
 ## Expériences
